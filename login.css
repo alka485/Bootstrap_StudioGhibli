@@ -20,3 +20,29 @@ form {
     border-radius: 10px;  
     border: 1px solid #fff;
 }
+
+input[type=text]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+
+label .password , .name {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type= submit]{
+    background-color: #f3406a;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form p {
+    text-align: center;
+    padding-top: 20px;
+}
